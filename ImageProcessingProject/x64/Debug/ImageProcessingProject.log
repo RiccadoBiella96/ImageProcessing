@@ -1,0 +1,17 @@
+﻿  main.cpp
+c:\users\riccardo\desktop\3anno\multimedia\imageprocessing\imageprocessingproject\imageprocessingproject\main.cpp(14): warning C4244: 'inizializzazione': conversione da '_Tp' a 'int'. Possibile perdita di dati.
+          with
+          [
+              _Tp=double
+          ]
+c:\users\riccardo\desktop\3anno\multimedia\imageprocessing\imageprocessingproject\imageprocessingproject\main.cpp(15): warning C4244: 'inizializzazione': conversione da '_Tp' a 'int'. Possibile perdita di dati.
+          with
+          [
+              _Tp=double
+          ]
+c:\users\riccardo\desktop\3anno\multimedia\imageprocessing\imageprocessingproject\imageprocessingproject\main.cpp(16): warning C4244: 'inizializzazione': conversione da '_Tp' a 'int'. Possibile perdita di dati.
+          with
+          [
+              _Tp=double
+          ]
+  ImageProcessingProject.vcxproj -> C:\Users\Riccardo\Desktop\3Anno\Multimedia\ImageProcessing\ImageProcessingProject\x64\Debug\ImageProcessingProject.exe
